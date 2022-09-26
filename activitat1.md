@@ -34,5 +34,18 @@ ALGUNES CARACTERÍSTIQUES:
 
 Amb aquesta solució tindrem les nostres còpies de seguretat en perfecte estat.
 
-###El pressupost mensual i anual de la despesa del servei a contractar.
+### El pressupost mensual i anual de la despesa del servei a contractar.
+
+![](captura2.png)
+
+Amb lo Pla anual de Google Drive Premium ens ahorrem 19,89€ a si pagasem sol mensualment.
+
+
+### Guia de creació de les unitats compartides BACKUP i DOCUMENTS on es vegin els permisos assignats a cada tipus d’usuari/a.
+
+En aquesta imatge podem observar com podem donar permisos als altres usuaris en aquest cas sols l’administrador té accés per a editar lo document mentres que l’altre usuari sols pot veure.
+
+
+
+
 
