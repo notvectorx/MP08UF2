@@ -59,6 +59,26 @@ En qualsevol moment l’administrador pot modificar els permisos dels ALTRES USU
 
 Obrir Paràmetres.
 
+![](screenshoot1.png)
+
+
+Buscar Comptes en Linea
+
+![](screenshoot2.png)
+
+Entrem a l'opció de google
+
+![](screenshoot3.png)
+
+Iniciem Sessió amb el compte que volem tenir accés des de l'escriptori.
+
+![](screenshoot4.png)
+
+Un cop els anteriors passos fets el nostre google drive apareix en els nostres fitxers.
+
+![](screenshoot5.png)
+
+### Exemples d’ús de fer un backup per part de l’administrador/a.
 
 
 
