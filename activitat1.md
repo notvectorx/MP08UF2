@@ -80,6 +80,9 @@ Un cop els anteriors passos fets el nostre google drive apareix en els nostres f
 
 ### Exemples d’ús de fer un backup per part de l’administrador/a.
 
+![](screenshoot6.png)
+
+![](screenshoot7.png)
 
 
 
