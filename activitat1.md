@@ -46,6 +46,21 @@ Amb lo Pla anual de Google Drive Premium ens ahorrem 19,89€ a si pagasem sol m
 En aquesta imatge podem observar com podem donar permisos als altres usuaris en aquest cas sols l’administrador té accés per a editar lo document mentres que l’altre usuari sols pot veure.
 
 
+![](captura3.png)
+
+En qualsevol moment l’administrador pot modificar els permisos dels ALTRES USUARIS en aquest cas com es la carpeta de DOCUMENTS els usuaris normals només  tindrien que tindre els permisos de lectura.
+
+
+![](captura4.png)
+
+![](captura5.png)
+
+### Guia d’instal·lació d’adreces directes als escriptoris dels dos tipus d’usuaris: Administrador/a i usuari/a.ç
+
+Obrir Paràmetres.
+
+
+
 
 
 
