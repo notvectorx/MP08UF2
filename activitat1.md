@@ -86,12 +86,13 @@ Un cop els anteriors passos fets el nostre google drive apareix en els nostres f
 
 ### Exemples d’ús de consultar un document per part de l’usuari/a.
 
-
+![](capturaaaaa.png)
 
 
 
 ### Comproveu si un usuari/a pot eliminar sense voler algun document.
 
+![](capturaaaaa 2.png)
 
 
 
