@@ -84,6 +84,14 @@ Un cop els anteriors passos fets el nostre google drive apareix en els nostres f
 
 ![](screenshoot7.png)
 
+### Exemples d’ús de consultar un document per part de l’usuari/a.
+
+
+
+
+
+### Comproveu si un usuari/a pot eliminar sense voler algun document.
+
 
 
 
