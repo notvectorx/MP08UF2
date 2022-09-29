@@ -92,7 +92,7 @@ Un cop els anteriors passos fets el nostre google drive apareix en els nostres f
 
 ### Comproveu si un usuari/a pot eliminar sense voler algun document.
 
-![](capturaaaaa 2.png)
+![](capturaaaaa2.png)
 
 
 
