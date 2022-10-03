@@ -19,10 +19,10 @@ I configurem MariaDB
 
 sudo mysql_secure_installation
 
-Deshabilitar usuarios anónimos.
-Deshabilitar acceso remoto como root.
-Eliminar las bases de datos de testeo y el acceso a las mismas.
-Actualizar las tablas de privilegios.
+* Deshabilitar usuarios anónimos.
+* Deshabilitar acceso remoto como root.
+* Eliminar las bases de datos de testeo y el acceso a las mismas.
+* Actualizar las tablas de privilegios.
 
 
 
