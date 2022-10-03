@@ -58,6 +58,9 @@ sudo add-apt-repository ppa:ondrej/php
 Actualitzem els paquets amb el repositori afegit:
 
 sudo apt update
+
+![](algo4.png)
+
 Instal·lem PHP i els mòduls necessaris:
 
 Hem de tenir en compte els requisits d'Owncloud abans d'instal·lar els mòduls.
@@ -74,3 +77,17 @@ memory_limit = 256M
 upload_max_filesize = 100M
 display_errors = Off
 date.timezone = Europe/Madrid
+
+
+
+Descarreguem la darrera versió del programa i descomprimim els fitxers, a més movem els fitxers d'Owncloud a "/var/www/html/owncloud".
+
+cd /tmp && wget https://download.owncloud.com/server/stable/owncloud-complete-latest.zip
+unzip owncloud-complete-latest.zip
+sudo mv owncloud /var/www/html/owncloud/
+
+Canviem propietari i permisos dels directoris d'owncloud. www-data perquè els pugui fer servir Apache, 755 perquè els pugui executar i llegir qualsevol usuari de Linux:
+
+sudo chown -R www-data:www-data /var/www/html/owncloud/
+sudo chmod -R 755 /var/www/html/owncloud/
+
