@@ -91,3 +91,12 @@ Canviem propietari i permisos dels directoris d'owncloud. www-data perquè els p
 sudo chown -R www-data:www-data /var/www/html/owncloud/
 sudo chmod -R 755 /var/www/html/owncloud/
 
+![](17ouncloud.png)
+
+
+
+![](19ouncloud.png)
+
+
+
+![](21ouncloud.png)
