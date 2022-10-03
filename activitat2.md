@@ -31,6 +31,9 @@ Reiniciem lo servidor:
 
 sudo systemctl restart mariadb.service` o `sudo service mariadb.service restart
 
+![](algo2.png)
+
+
 Entrem a MariaDB:
 
 sudo mysql -u root -p
