@@ -50,6 +50,8 @@ Us donem accés a l'usuari a la base de dades creada:
 
 GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' WITH GRANT OPTION;
 
+![](algo3.png)
+
 Instal·lar PHP i els seus mòduls necessaris:
 sudo apt-get install software-properties-common -y
 sudo add-apt-repository ppa:ondrej/php
