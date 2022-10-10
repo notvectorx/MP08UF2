@@ -100,3 +100,7 @@ sudo chmod -R 755 /var/www/html/owncloud/
 
 
 ![](21ouncloud.png)
+
+
+En la seguent imatge podrem configurar lo nostre domini i lo dirrectori on esta ficat:
+
