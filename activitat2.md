@@ -104,3 +104,18 @@ sudo chmod -R 755 /var/www/html/owncloud/
 
 En la seguent imatge podrem configurar lo nostre domini i lo dirrectori on esta ficat:
 
+
+![](web4.png)
+
+### Què fa la comanda a2ensite?
+A2ensite és un script que habilita un lloc web especificat.
+
+### I la comando a2dissite?
+A2dissite és un script que desahabilita un lloc web especificat.
+
+### Què significa la línia de /etc/hosts
+
+En aquest dirrectori se podria dir que es como un DNS o algo paregut perque podem ficar una ip i un enllaç i lo que fa estraduirnos la dirrecció
+
+
+
