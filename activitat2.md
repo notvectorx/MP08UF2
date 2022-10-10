@@ -117,5 +117,5 @@ A2dissite és un script que desahabilita un lloc web especificat.
 
 En aquest dirrectori se podria dir que es como un DNS o algo paregut perque podem ficar una ip i un enllaç i lo que fa estraduirnos la dirrecció
 
-
+![](web2.png)
 
