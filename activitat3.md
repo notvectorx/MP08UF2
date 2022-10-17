@@ -53,4 +53,15 @@ Exemple streaming video OWNCLOUD:
 
 ![](alumne3.png)
 
+* Posa't una imatge d'usuari.
+![](perfil.png)
+
+* Afegeix el teu mail de l'Institut.
+![](correu.png)
+* Canvia l'idioma a català.
+![](idioma.png)
+* Mostra la versió d'Owncloud instal·lada.
+![](versio.png)
+
+
 
