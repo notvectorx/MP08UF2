@@ -67,7 +67,51 @@ Una vegada fet aixos podem iniciar desde un navegador per a iniciar amb la confi
 
 ![image](https://user-images.githubusercontent.com/114423166/204363067-3fd76f8c-6960-450b-a589-af860a224779.png)
 
+Si tenim el segúent fallo tenim que instal·lar les extencions de php zip i curl.
+
+![image](https://user-images.githubusercontent.com/114423166/205680737-2c815ce9-a1bf-4f0c-bf66-4b7c386dcb59.png)
+
+![image](https://user-images.githubusercontent.com/114423166/205680778-3f4d3f29-91e5-46c1-af84-fb92dda805a3.png)
+
+![image](https://user-images.githubusercontent.com/114423166/205680815-efa3ab36-122b-4f7f-b963-e1b9765e7e01.png)
+
+I reiniciem lo Apache2
+![image](https://user-images.githubusercontent.com/114423166/205681107-896c49e1-858d-40fa-80b4-8d6f6073815f.png)
+
+I ja ens deixa entrar 
+
+![image](https://user-images.githubusercontent.com/114423166/205681316-0ce75984-84bc-4373-aa22-a87c71ef64dd.png)
+
+Posem la base de datos de MariaDB
+
+![image](https://user-images.githubusercontent.com/114423166/205681444-ab2c3aa7-d08d-459a-ad35-2248885c714a.png)
+
+Posem Usuari i Contrasenya:
+
+![image](https://user-images.githubusercontent.com/114423166/205681579-c4fb54a7-4874-411a-8c7e-728d47fba16f.png)
 
 
+Si ens surt lo següent error tenim que instal·lar  la extenció de php de mysql:
+
+![image](https://user-images.githubusercontent.com/114423166/205681955-b0449eb0-0a27-4a1b-9410-9ec6052c7a21.png)
+
+![image](https://user-images.githubusercontent.com/114423166/205682021-e34dc427-cc23-4df3-8cc0-cb07d1f3bd72.png)
+
+
+despres instalem php8.0-xml i mbstring:
+
+![image](https://user-images.githubusercontent.com/114423166/205682202-1ac944b5-1bfb-41c7-9198-6199b4ff0885.png)
+
+![image](https://user-images.githubusercontent.com/114423166/205682323-8dd3b5c6-0238-4832-8751-571346773c22.png)
+
+I reiniciem lo servidor Apache.
+
+Ens surtiran els seguents errors que es soluciona instalant les extenciós de php que ens demanen:
+
+![image](https://user-images.githubusercontent.com/114423166/205682585-356ee472-3a11-4978-8cbd-9428de7764ba.png)
+
+Una vegada instalada les extencions podem continuar amb els seguents errors:
+
+![image](https://user-images.githubusercontent.com/114423166/205683042-04ff884c-5386-4bf3-8a56-61fcef4519ad.png)
 
 
