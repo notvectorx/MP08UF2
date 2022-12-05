@@ -121,4 +121,9 @@ Tenim el seguent error que se soluciona en l'arxiu php.ini descomentant la segü
 
 ![image](https://user-images.githubusercontent.com/114423166/205684645-877c3deb-430f-4390-add6-9655f008bd7b.png)
 
+Una vegada fet aixos ja tidrem lo nostre moodle funcional.
 
+![image](https://user-images.githubusercontent.com/114423166/205707179-31c969a6-fe6d-4b8c-a080-7886a445bbdc.png)
+
+
+Creem les categories y subcategories
