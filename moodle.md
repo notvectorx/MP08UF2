@@ -115,3 +115,10 @@ Una vegada instalada les extencions podem continuar amb els seguents errors:
 ![image](https://user-images.githubusercontent.com/114423166/205683042-04ff884c-5386-4bf3-8a56-61fcef4519ad.png)
 
 
+Tenim el seguent error que se soluciona en l'arxiu php.ini descomentant la següent linia i posant 5000:
+
+![image](https://user-images.githubusercontent.com/114423166/205684583-9a90bbc8-0a2f-4f70-81ad-d86a3a251ae3.png)
+
+![image](https://user-images.githubusercontent.com/114423166/205684645-877c3deb-430f-4390-add6-9655f008bd7b.png)
+
+
