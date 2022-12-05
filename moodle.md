@@ -126,4 +126,7 @@ Una vegada fet aixos ja tidrem lo nostre moodle funcional.
 ![image](https://user-images.githubusercontent.com/114423166/205707179-31c969a6-fe6d-4b8c-a080-7886a445bbdc.png)
 
 
-Creem les categories y subcategories
+Creem les categories y subcategories:
+
+![image](https://user-images.githubusercontent.com/114423166/205709985-225d4899-f4a2-4670-9516-1a7743ad5137.png)
+
