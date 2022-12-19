@@ -62,9 +62,52 @@
 
 ![image](https://user-images.githubusercontent.com/114423166/208476674-d8b43ddc-5cb2-4967-81a2-71c24418b06c.png)
 
-## Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Prova
+## Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. 
 
+![image](https://user-images.githubusercontent.com/114423166/208486716-4593cb3b-8ec2-47cd-bffc-379160bfeb35.png)
 
+![image](https://user-images.githubusercontent.com/114423166/208489667-e2b47f9b-0e81-4a69-b449-9f62a6b5f29c.png)
+
+## Fes que els alumnes contestin la tasca (mínim 3).
+
+![image](https://user-images.githubusercontent.com/114423166/208492274-206a0494-1efd-41da-a461-5f54696fe367.png)
+
+## Qualifica la tasca de l'alumnat.
+
+![image](https://user-images.githubusercontent.com/114423166/208492690-80eab820-6710-4371-b64e-89b64c0d3d37.png)
+
+## Com a perfil d'alumne mostra la teva qualificació.
+
+![image](https://user-images.githubusercontent.com/114423166/208492986-11b77d11-d71c-49fa-a2f1-cb71ccdcb80e.png)
+
+## Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+
+![image](https://user-images.githubusercontent.com/114423166/208493825-a76850b8-3b7f-47ff-8066-2adee83d7a9b.png)
+
+## Com a alumne/a contesta la consulta.
+
+![image](https://user-images.githubusercontent.com/114423166/208494111-1fcbd01c-79d9-48e6-81ca-e5ef46a84498.png)
+
+## Com a professor mostra les contestacions de la consulta.
+
+![image](https://user-images.githubusercontent.com/114423166/208494044-cafcec7d-fecc-4d07-8749-30db52bdbdf8.png)
+
+# Seguretat del lloc:
+
+## Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho.
+
+![image](https://user-images.githubusercontent.com/114423166/208494700-78e8d79e-5a26-4066-8fcb-7af7e1a1628c.png)
+
+![image (2)](https://user-images.githubusercontent.com/114423166/208495521-f2b40834-ab7a-448c-87ca-a33f82d40719.png)
+
+### Canvia els paràmetres de les contrasenyes d'usuari per a que les contrasenyes:
+Tinguin mínim 10 caràcters.
+Tinguin 2 dígits.
+Tinguin 3 maiúscules.
+
+![image](https://user-images.githubusercontent.com/114423166/208496499-45840212-7e5d-4748-b470-768932abb636.png)
+
+# Plugins:
 
 
 
