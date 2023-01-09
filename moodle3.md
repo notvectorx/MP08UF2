@@ -107,7 +107,7 @@ Tinguin 3 maiúscules.
 
 ![image](https://user-images.githubusercontent.com/114423166/208496499-45840212-7e5d-4748-b470-768932abb636.png)
 
-# Plugins:
+
 
 
 
